@@ -25,5 +25,6 @@
 (require 'core-functions)
 (require 'core-keys)
 (require 'core-ui)
+(require 'core-modeline)
 
 (require 'core-c)
