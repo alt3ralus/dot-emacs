@@ -4,6 +4,6 @@
 
 ;;; Code:
 
-(setq-default c-basic-offset 4)
+(setq c-default-style "bsd")
 
 (provide 'core-c)
